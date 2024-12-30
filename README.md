@@ -1,6 +1,6 @@
 # == My Plugin ==
 Contributors: yinkhwin0o<br>
-Donate link: ko-fi.com/techdevbyk<br>
+Donate link: https://ko-fi.com/techdevbyk<br>
 Tags: example, demo, plugin<br>
 Requires at least: 5.0<br>
 Tested up to: 6.3<br>
